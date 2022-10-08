@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+nav {
+  ul {
+    li {
+      a {
+        color: $primaryColor;
+        text-decoration: none;
+        font-family: "Montserrat", sans-serif;
+      }
+    }
+  }
+}
+
+main {
+  h1 {
+    font-family: "Montserrat", sans-serif;
+    color: $primaryColor;
+  }
+  h3 {
+    color: $primaryColor;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  ul {
+    color: rgba(255, 255, 255, 0.85);
+    list-style: none;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  p {
+    color: $primaryColor;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    font-size: 2rem;
+  }
+
+  h2 {
+    a {
+      font-family: "Montserrat", sans-serif;
+      color: $secondaryColor;
+      font-size: 20px;
+      text-decoration: none;
+    }
+  }
+}
+
+.productos {
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    color: $secondaryColor;
+    font-size: 20px;
+  }
+}
+
+footer {
+  p {
+    color: $primaryColor;
+    font-family: "Montserrat", sans-serif;
+  }
+}
+
+.sucursales {
+  h1 {
+    font-size: 28px;
+  }
+}
+
+.card {
+  h2 {
+    color: $primaryColor;
+    font-family: "Montserrat", sans-serif;
+  }
+  ul {
+    li {
+      font-size: 14px;
+    }
+  }
+}
+
+.nosotros {
+  p {
+    color: $primaryColor;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+}
+
+form {
+  label {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    color: $primaryColor;
+  }
+  input[type="submit"] {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+}
