@@ -20,18 +20,6 @@ main ul {
   list-style: none;
   font-family: "Montserrat", sans-serif;
 }
-main p {
-  color: rgb(255, 255, 255);
-  font-family: "Montserrat", sans-serif;
-  font-weight: 200;
-  font-size: 2rem;
-}
-main h2 a {
-  font-family: "Montserrat", sans-serif;
-  color: rgb(255, 165, 0);
-  font-size: 20px;
-  text-decoration: none;
-}
 
 .productos h2 {
   font-family: "Montserrat", sans-serif;
@@ -128,17 +116,6 @@ main h3 {
 }
 main ul {
   margin: auto 25px;
-}
-main p {
-  text-align: center;
-}
-main img {
-  height: 500px;
-  display: block;
-  margin: 25px auto;
-}
-main h2 {
-  text-align: center;
 }
 
 .productos {
